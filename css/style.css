@@ -832,7 +832,7 @@ section.middle-w3ls img {
     background: url(../images/kontak.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;  
     -ms-background-size: cover;
     -moz-background-size: cover;
     min-height: 380px;
