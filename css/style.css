@@ -108,7 +108,7 @@ a:hover {
     height: 38px;
     border: none;
     text-indent: 100%;
-    background: url(../images/move-top.png) no-repeat 0px 0px;
+    background: url(../imags/move-top.png) no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -215,7 +215,7 @@ a.nav-link:hover {
 }
 
 .banner-slider1 {
-    background: url(../images/bg.jpg) no-repeat center;
+    background: url(../mockup/foto1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -224,7 +224,7 @@ a.nav-link:hover {
 }
 
 .banner-slider2 {
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(../mockup/foto2.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -233,7 +233,7 @@ a.nav-link:hover {
 }
 
 .banner-slider3 {
-    background: url(../images/bg1.jpg) no-repeat center;
+    background: url(../mockup/foto3.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -585,7 +585,7 @@ h2.title:before {
 /* blog */
 
 section.blog_w3ls {
-    background: url(../images/bg1.jpg) no-repeat center;
+    background: url(../mockup/foto3.jpg) no-repeat center;
     background-size: cover;
     position: relative;
     color: #fff;
@@ -753,7 +753,7 @@ footer p a:hover {
 /* middle section */
 
 section.middle-w3ls {
-    background: url(../images/bg3.jpg) no-repeat center;
+    background: url(../mockup/wisuda.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -829,7 +829,7 @@ section.middle-w3ls img {
 /* Inner Pages */
 
 .banner2-w3ls {
-    background: url(../images/bg.jpg) no-repeat center;
+    background: url(../mockup/foto1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
