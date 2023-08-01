@@ -224,7 +224,7 @@ a.nav-link:hover {
 }
 
 .banner-slider2 {
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(../mockup/foto2.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -233,7 +233,7 @@ a.nav-link:hover {
 }
 
 .banner-slider3 {
-    background: url(../images/bg1.jpg) no-repeat center;
+    background: url(../mockup/foto3.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
