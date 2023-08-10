@@ -829,7 +829,7 @@ section.middle-w3ls img {
 /* Inner Pages */
 
 .banner2-w3ls {
-    background: url(../images/bgbemab.PNG) no-repeat center;
+    background: url(../images/bgbem.PNG) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;  
@@ -837,7 +837,42 @@ section.middle-w3ls img {
     -moz-background-size: cover;
     min-height: 380px;
 }
-
+.bannerhimti-w3ls {
+    background: url(../images/bghimti.PNG) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;  
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
+.bannerhimsi-w3ls {
+    background: url(../images/bghimsi.PNG) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;  
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
+.bannerldk-w3ls {
+    background: url(../images/bgldk.PNG) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;  
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
+.bannerlc-w3ls {
+    background: url(../images/bglc.PNG) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;  
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
 /* page details */
 
 .breadcrumb li a {
